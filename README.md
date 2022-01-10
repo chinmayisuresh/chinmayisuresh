@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Chinmayi 😊
-<h5>A Full Stack Web developer 👩🏻‍💻 and passionate learner, During my journey of learning Web development in Masai, I have built many projects which have given me hands-on experience on various web development tools like HTML, CSS, Javascript, React, Mongo DB, Express JS, Node JS. As a developer, I  aspire to create platforms that bridge everyday gaps and solve real-world problems </h5>
+<h3>A Full Stack Web developer 👩🏻‍💻 and passionate learner, During my journey of learning Web development in Masai, I have built many projects which have given me hands-on experience on various web development tools like HTML, CSS, Javascript, React, Mongo DB, Express JS, Node JS. As a developer, I  aspire to create platforms that bridge everyday gaps and solve real-world problems </h3>
 
 - My Portfolio[https://chinmayisuresh1998.wixsite.com/my-site-1](https://chinmayisuresh1998.wixsite.com/my-site-1) 
 
